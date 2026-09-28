@@ -224,11 +224,3 @@ I regularly practice Data Structures & Algorithms and participate in LeetCode ch
 </div>
 
 ---
-
-<div align="center">
-
-### ⭐ "Code. Learn. Build. Repeat."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
-
-</div>
